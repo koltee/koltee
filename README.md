@@ -1,8 +1,8 @@
 ## Fala rapaziada 👋
 <p>My name is Eliseu and I'm 19 years old. <br> Recently I fell in love with the world of programming and I'm studying hard to become a Front-End Developer.
-  
-<img src="assets/art.png" align="right" min-width="300px" max-width="550px" width="300px">
 
+<img src="images/art.png" align="right" min-width="300px" max-width="550px" width="300px">
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
