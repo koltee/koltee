@@ -1,5 +1,5 @@
 ## Hey 👋
-<p>My name is Eliseu and I'm 19 years old. <br> Recently I fell in love with the world of programming and I'm studying <strong>Web</strong> and <strong>Mobile Application Development</strong>.
+<p>My name is Eliseu and I'm 19 years old. <br>I'm studying <strong>Web</strong> and <strong>Mobile Application Development</strong>.
   
   ##
   
