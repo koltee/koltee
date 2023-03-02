@@ -1,5 +1,5 @@
 ## Fala rapaziada 👋
-<p>My name is Eliseu and I'm 19 years old. <br> Recently I fell in love with the world of programming and I'm studying <strong>Front-End</strong> and <strong>Mobile Application Development</strong>.
+<p>My name is Eliseu and I'm 19 years old. <br> Recently I fell in love with the world of programming and I'm studying <strong>Web Development</strong> and <strong>Mobile Application Development</strong>.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
