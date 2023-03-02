@@ -1,4 +1,4 @@
-## Fala rapaziada 👋
+## Hey 👋
 <p>My name is Eliseu and I'm 19 years old. <br> Recently I fell in love with the world of programming and I'm studying <strong>Web and Mobile Application Development</strong>.
   
   ##
