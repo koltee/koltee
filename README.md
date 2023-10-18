@@ -1,7 +1,6 @@
 # Hi there 👋 
-<br><br>
 **I'm starting my journey in software development 👨‍💻**
-<br>
+<br><br>
 **📚 I'm in my first year of the software development course at ISTEC Lisbon**
 <br><br>
 **📝 I'm currently learning C#**
