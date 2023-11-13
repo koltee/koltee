@@ -3,7 +3,7 @@
 <br><br>
 **📚 I'm in my first year of the software development course at ISTEC Lisbon**
 <br><br>
-**📝 I'm currently learning .NET Back-End**
+**📝 I'm currently learning C# .NET**
 <br><br>
 **📫 How to reach me:**
 <br><br>
