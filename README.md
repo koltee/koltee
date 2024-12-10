@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eliseu, and I'm an aspiring Software Developer. I'm currently studying Software Development in a CTeSP (Professional Higher Technical Course) at ISTEC Lisbon.</h2>
+<h4 align="left">Hi 👋! My name is Eliseu, and I'm an aspiring Software Developer. I'm currently studying Software Development in a CTeSP (Professional Higher Technical Course) at ISTEC Lisbon.</h4>
 
 ###
 
